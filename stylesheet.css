@@ -1,0 +1,62 @@
+
+header {
+  wigth:100%;
+  background-color:rgb(7,184,180);
+  height: 30%;
+  height:90px;
+
+
+}
+
+h1{
+  color:white;
+  position:relative;
+  font-size:x-large;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:auto;
+  margin-bottom:auto;
+  text-align: center;
+  width:80%;
+  z-index:5;
+  font-weight:lighter;
+  line-height:90px;
+}
+
+.nb {
+  position:absolute;
+  font-size:400%;
+  left:50%;
+  margin-right:-10%;
+  top:6%;
+  text-align: center;
+  width:10%;
+  color:purple;
+  z-index:0;
+  font-weight:lighter;
+  letter-spacing:5px;
+  line-height:90px;
+
+
+  }
+
+.notabebe {
+
+
+  }
+
+  .barrenoir{
+    width:100%;
+    background-color:purple;
+    text-align: center;
+
+
+  }
+
+.bouton {
+  position:relative;
+  display:inline-block;
+  width:40%;                                                                                                                                                                                      block;
+
+
+}
